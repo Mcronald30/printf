@@ -45,7 +45,6 @@ int _strlenc(const char *s);
 int printf_37(void);
 int printf_char(va_list val);
 int printf_string(va_list val);
-int printf_precision(const char *format, int *i, va_list list);
-int is_digit(char);
+int get_width(const char *format, int *i, va_list list);
 
 #endif
