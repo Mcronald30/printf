@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * printf_pointer - Prints the value of a pointer variable
+ * printf_pointer - prints an hexgecimal number.
  * @val: Arguments
  * Return: Pointer
  */
