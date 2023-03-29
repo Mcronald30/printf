@@ -2,8 +2,8 @@
 
 /**
  * printf_pointer - prints an hexgecimal number.
- * @val: Arguments
- * Return: Pointer
+ * @val: arguments.
+ * Return: counter.
  */
 int printf_pointer(va_list val)
 {
